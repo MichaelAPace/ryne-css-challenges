@@ -1,0 +1,20 @@
+h2 {
+  color: orange;
+}
+
+h1 {
+  color: black;
+  font-style: bold;
+}
+
+.yoyo p{
+  color: yellow;
+}
+
+.arch  {
+  background: yellow;
+}
+
+.arch p {
+  color: blue;
+}
